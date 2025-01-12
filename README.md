@@ -11,3 +11,6 @@ A Streamlit web application for detecting pneumonia from chest X-ray images usin
 1. Clone the repository
 2. Install requirements: `pip install -r requirements.txt`
 3. Run: `streamlit run app.py`
+
+## Streamlit Link
+https://pneumonia-detection-kpzzhrydsbuq7hgn7zmczo.streamlit.app/
